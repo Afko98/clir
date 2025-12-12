@@ -9,9 +9,6 @@ clir
 *~
 *.swp
 
-# Docs / screenshots
-docs/
-
 # MacOS specific
 .DS_Store
 

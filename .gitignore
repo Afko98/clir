@@ -1,0 +1,19 @@
+# Object files
+*.o
+
+# Build output
+/build/
+clir
+
+# Backup files
+*~
+*.swp
+
+# Docs / screenshots
+docs/
+
+# MacOS specific
+.DS_Store
+
+# Linux specific
+*.log
